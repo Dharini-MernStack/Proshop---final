@@ -8,7 +8,6 @@ import Message from '../components/Message';
 import Paginate from '../components/Paginate';
 import ProductCarousal from '../components/ProductCarousal';
 
-
 const HomeScreen = () => {
   const { pageNumber, keyword } = useParams();
   const { data, isLoading, error } = useGetProductsQuery({
@@ -17,8 +16,13 @@ const HomeScreen = () => {
   });
   return (
     <>
-    {!keyword ?( <ProductCarousal/>)
-    :( <Link to ='/' classname='btn btn-light mb-4'>Go Back</Link>)}
+      {!keyword ? (
+        <ProductCarousal />
+      ) : (
+        <Link to='/' classname='btn btn-light mb-4'>
+          Go Back
+        </Link>
+      )}
       {isLoading ? (
         <Loader />
       ) : error ? (
@@ -28,7 +32,6 @@ const HomeScreen = () => {
         </Message>
       ) : (
         <>
-        
           <h1>Latest products</h1>
           <Row>
             {data.products.map((product) => (
