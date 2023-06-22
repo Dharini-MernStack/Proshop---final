@@ -13,14 +13,25 @@ This website has 2 functionalities added , One for the admin to create products,
 
 Here are some screenshots of the project to give you an idea of its features and functionality:
 
-###### Home Page
+###### Home Page-Carousel
 
-![Home Page](https://user-images.githubusercontent.com/87645745/213860435-ef02b36f-adbd-4517-b103-174c3dcb7be9.png)
+![Home Page](https://github.com/Dharini-MernStack/Proshop---final/blob/a7303f4d0ec449b65c2fea040462a79d5fe63c4d/frontend/public/images/carousal.jpg)
 
-###### Select Template Page
+###### Select Product Page
 
-![Select Template](https://user-images.githubusercontent.com/87645745/213860462-ea8bd7db-2c15-4633-9894-113f047cc13b.png)
+![Select Products](https://github.com/Dharini-MernStack/Proshop---final/blob/a7303f4d0ec449b65c2fea040462a79d5fe63c4d/frontend/public/images/product%20page.jpg)
 
+###### User Review on product
+
+![User review](https://github.com/Dharini-MernStack/Proshop---final/blob/a7303f4d0ec449b65c2fea040462a79d5fe63c4d/frontend/public/images/review.jpg)
+
+###### User Sign in & Sign Up
+
+![User Sign in and Registration](https://github.com/Dharini-MernStack/Proshop---final/blob/a7303f4d0ec449b65c2fea040462a79d5fe63c4d/frontend/public/images/signin.jpg)
+
+###### Admin User 
+
+![Admin viewing orders](https://github.com/Dharini-MernStack/Proshop---final/blob/a7303f4d0ec449b65c2fea040462a79d5fe63c4d/frontend/public/images/admin%20order.jpg)
 
 ## Getting Started
 
