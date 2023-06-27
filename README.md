@@ -83,9 +83,7 @@ npm run dev
 
 - We welcome contributions to our website. If you would like to contribute, please submit a pull request on our Github repository.
 
-### License
 
-- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ### Acknowledgments
 
